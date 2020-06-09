@@ -9,3 +9,4 @@ Jupyter notebook to run over 19 time series metrics on stmetrics based into samp
 
 !pip install git+https://github.com/andersonreisoares/stmetrics@spatial --upgrade
 
+Autors: José Guilherme Fronza e Michel Eustáquio Dantas Chaves
