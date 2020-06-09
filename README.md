@@ -1,5 +1,5 @@
 # SER347_STMETRICS
-Jupyter notebook to run 19 time serie metrics on stmetrics based into sample shapefile. Graphs and crop samples.
+Jupyter notebook to run over 19 time series metrics on stmetrics based into sample shapefile(polygons by user).Plot graphs and crop samples over metrics and time.
 
 ## Sobre o ST METRICS
 
